@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Push Notification</string>
+
+    <string name="notification_channel_id_default">default</string>
+</resources>
