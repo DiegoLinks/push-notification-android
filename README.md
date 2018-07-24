@@ -6,7 +6,6 @@ Gradle:
 	ModuleApp:
 		
 		Implementation firebase-messaging latest version
-	
 		apply plugin google-services
 		
 	Project:
@@ -16,9 +15,7 @@ Gradle:
 Class:
 	
 	IdManager
-	
 	MyFirebaseMessagingService
-	
 	Constants (with basic configurations, copy in our project)
 
 Mainifest:
@@ -28,15 +25,12 @@ Mainifest:
 	Services for Classes:
 	
 		IdManager
-	
 		MyFirebaseMessagingService
 	
 	Metadatas:
 	
 		default notification icon
-		
 		default notification color
-		
 		default notification channel id
 
 Documentation and “step by step” from Firebase:
