@@ -2,10 +2,15 @@
 Basic solution for push notification in android apps.
 
 Gradle:
+	
 	ModuleApp:
+		
 		Implementation firebase-messaging latest version
+	
 		apply plugin google-services
+		
 	Project:
+	
 		Classpath google-services latest
 
 Class:
